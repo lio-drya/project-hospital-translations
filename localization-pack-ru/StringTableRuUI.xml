@@ -6,35 +6,36 @@
 
         <Contributors>
             <Name>Fill your names!</Name>
+            <Name>lio-drya</Name>
         </Contributors>
         
         <LocalizedStrings>
             <!-- Menus -->
-            <GameDBLocalizedString>      <LocID>QUIT</LocID>                                <Text>Quit</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OK</LocID>                                  <Text>Ok</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DELETE</LocID>                              <Text>Delete</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>CANCEL</LocID>                              <Text>Cancel</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>WIDTH</LocID>                               <Text>Width</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>HEIGHT</LocID>                              <Text>Height</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>QUIT</LocID>                                <Text>Выход</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OK</LocID>                                  <Text>Ок</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DELETE</LocID>                              <Text>Удалить</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>CANCEL</LocID>                              <Text>Отмена</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>WIDTH</LocID>                               <Text>Ширина</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>HEIGHT</LocID>                              <Text>Высота</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NAME</LocID>                                <Text>Name</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_MAP_EDITOR</LocID>             <Text>Map Editor</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_GAME_TEST</LocID>              <Text>Sandbox</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_MAP_EDITOR</LocID>             <Text>Редактор карт</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_GAME_TEST</LocID>              <Text>Песочница</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TITLE_SCREEN_ANIM_TEST</LocID>              <Text>Anim Test</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01</LocID>                   <Text>Tutorial 1</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01_DESCRIPTION</LocID>       <Text>Learn the basics of diagnosing and treating patients</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01a</LocID>                  <Text>Tutorial 1 A</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01b</LocID>                  <Text>Tutorial 1 B</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01</LocID>                   <Text>Руководство 1</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01_DESCRIPTION</LocID>       <Text>Изучите основы диагностики и лечения пациентов</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01a</LocID>                  <Text>Руководство 1 A</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_01b</LocID>                  <Text>Руководство 1 B</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02</LocID>                   <Text>Tutorial 2</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02_DESCRIPTION</LocID>       <Text>Build a functional small clinic</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02</LocID>                   <Text>Руководство 2</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_02_DESCRIPTION</LocID>       <Text>Постройте функциональную небольшую клинику</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03</LocID>                   <Text>Tutorial 3</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03_DESCRIPTION</LocID>       <Text>Management and hospitalization</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03</LocID>                   <Text>Руководство 3</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_03_DESCRIPTION</LocID>       <Text>Управление и госпитализация</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_04</LocID>                   <Text>Tutorial 4</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_04_DESCRIPTION</LocID>       <Text>Hospitalization</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_04</LocID>                   <Text>Руководство 4</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>LEVEL_TUTORIAL_04_DESCRIPTION</LocID>       <Text>Госпитализация</Text>  </GameDBLocalizedString>
             
             <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_01</LocID>                   <Text>Campaign 1</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>LEVEL_CAMPAIGN_01_DESCRIPTION</LocID>       <Text>Inefficient</Text>  </GameDBLocalizedString>
